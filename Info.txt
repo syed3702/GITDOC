@@ -1,7 +1,41 @@
-The GIT word file consists of all the data
-and commands of git.
+						     Index 
+	        				 ====================
+					  GIT [By Linus Torvalds - 2005]
+					**************************
 
-You can access easily to refer for basic
-understanding.
+1.What is GIT ?									[PAGE - 1]
+      	GIT is a Distributed Version Control System (VCS).
+2.USES :
+	Easy File Recovery.
+	Roll back to the previously working stage.
+	Can easily find out  what, when and who did the changes.
 
-What is .gitignore - [explained].
+3. What is version control system?
+              1.Local version control system 
+              2. Centralized Version Control System 
+              3. Distributed Version Control System
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+4.What is GITHUB?									[PAGE - 2]
+
+5.CHECKSUM : It is used to verify whether the downloaded file is authentic or not.
+	Using : SHA (eg : 3IUE32142).
+
+* How to make Author of Git Repository ?
+* Commands :									[PAGE - 3]
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+How to ignore , unsatge and unmodify git ?						[PAGE - 4]
+What is .gitignore?									
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Unstaging & modifying GIT 								[PAGE - 5]				
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+How to unstage a file and 								[PAGE - 6]
+$git checkout -f 								
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+How to Clone remote GIT repository (from GITHUB)?					[PAGE - 7]
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Creating and switching branches in GIT 						[PAGE - 8]
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
