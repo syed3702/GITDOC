@@ -1,0 +1,7 @@
+The GIT word file consists of all the data
+and commands of git.
+
+You can access easily to refer for basic
+understanding.
+
+What is .gitignore - [explained].
